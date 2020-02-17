@@ -3,7 +3,7 @@ package com.arnesi.main;
 import com.arnesi.application.SimpleSearchApp;
 
 /**
- * Adevinta Java Coding Exercise
+ * Java Coding Exercise
  * Application start point
  * 	
  * @author MArnesi
